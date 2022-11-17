@@ -1,0 +1,123 @@
+{
+  "contacts": [
+    {
+      "name": "Sumit Kataria",
+      "email": "sumir57@gmail.com",
+      "mobile": 98789524163,
+      "company": "Roysl",
+      "title": "Technician",
+      "groupId": "2",
+      "id": "uhCle7X",
+      "photo": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "name": "Raubak",
+      "photo": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "email": "gdfgfd@gmail.com",
+      "mobile": 7475863215454,
+      "company": "robot",
+      "title": "assistant",
+      "groupId": "2",
+      "id": "6XSOrDi"
+    },
+    {
+      "name": "Kunal Singh",
+      "photo": "https://media.istockphoto.com/id/1392944438/photo/portrait-of-handsome-attractive-positive-curly-haired-indian-or-arabian-guy-wearing-white.jpg?b=1&s=170667a&w=0&k=20&c=AuDfv9PdKqXO3nKHFc-uBZ1bt0SXXceqFLo-OhJnI6o=",
+      "email": "Kunal25@gmail.com",
+      "mobile": 8574142635,
+      "company": "Royal",
+      "title": "Assistant",
+      "groupId": "3",
+      "id": "csB_ZHM"
+    },
+    {
+      "name": "Rahul roshan",
+      "photo": "https://media.istockphoto.com/id/1358205700/photo/shot-of-a-young-man-using-his-smartphone-to-send-text-messages.jpg?b=1&s=170667a&w=0&k=20&c=khh-LAv-sBTINb0rKjxptnDYivrD8ls2jE1PC_L1pck=",
+      "email": "rahul29@gmail.com",
+      "mobile": 84568712685,
+      "company": "wipro",
+      "title": "Product director",
+      "groupId": "2",
+      "id": "HHKWxf1"
+    },
+    {
+      "name": "Suraj singhaniya",
+      "photo": "https://media.istockphoto.com/id/1393183265/photo/man-writing-in-notebook-ideas-and-enjoying-nature.jpg?b=1&s=170667a&w=0&k=20&c=FyY-v-EDufnmfVEttoORamkW6zpXF-hmsfDoezXgo_k=",
+      "email": "sss70@gmail.com",
+      "mobile": 9897546234,
+      "company": "obroy",
+      "title": "MArketing",
+      "groupId": "4",
+      "id": "-F-z5qM"
+    },
+    {
+      "name": "Kundan King",
+      "photo": "https://media.istockphoto.com/id/1372099513/photo/shot-of-a-handsome-young-man-sitting-with-his-border-collie-in-the-living-room-and-using-his.jpg?b=1&s=170667a&w=0&k=20&c=aTGuwKqEGe4iDEAS7-JDl36aHl0HDWR_5zYUxV46DZ4=",
+      "email": "kk54@gmail.com",
+      "mobile": 9798524163,
+      "company": "Cobra",
+      "title": "Human resource",
+      "groupId": "5",
+      "id": "2pd_m7v"
+    },
+    {
+      "name": "Ramesh Augar",
+      "photo": "https://media.istockphoto.com/id/1362328147/photo/confident-young-asian-man-looking-at-smartphone-while-working-on-laptop-computer-in-home.jpg?b=1&s=170667a&w=0&k=20&c=-ofBXV_0DA0db11J-acWDzUiyYfYva4ePPLjnWhAOs0=",
+      "email": "rammesh56@gmail.com",
+      "mobile": 9897451453,
+      "company": "Dalmia",
+      "title": "manager",
+      "groupId": "1",
+      "id": "rZneASC"
+    },
+    {
+      "name": "Anita bannerji",
+      "photo": "https://media.istockphoto.com/id/1369508766/photo/beautiful-successful-latin-woman-smiling.jpg?b=1&s=170667a&w=0&k=20&c=owOOPDbI6VOp1xYA4smdTNSHxjcJGRtGfVXx24g6J4c=",
+      "email": "anita43@gmail.com",
+      "mobile": 9798695421,
+      "company": "alfatech",
+      "title": "Digital Marketing",
+      "groupId": "3",
+      "id": "QPiIxOB"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "college"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friend"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Social"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

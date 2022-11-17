@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');
+body{
+    font-family: 'Fredoka';
+    background-color: #cce7e8 !important;
+}
+.contact-img{
+    width: 100px;
+    
+}
+.contact-img-details{
+    width: 200px;
+border-radius: 25px;
+}

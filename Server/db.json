@@ -1,0 +1,82 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Raghu",
+      "company": "ALpa",
+      "email": "raghu42@gmail.com",
+      "title": "technician",
+      "mobile": "4544541521",
+      "photo": "https://images.unsplash.com/photo-1587720410701-ed521cacd64d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+      "groupId": "25"
+    },
+    {
+      "id": "2",
+      "name": "Aman",
+      "company": "ALpa",
+      "email": "aman78@gmail.com",
+      "title": "Cameraman",
+      "mobile": "875412357",
+      "photo": "https://images.unsplash.com/photo-1529903543134-d2d0b6858e21?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHVzZXIlMjBwbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "groupId": "35"
+    },
+    {
+      "id": "3",
+      "name": "Jenny",
+      "company": "ALpa",
+      "email": "jenny65@gmail.com",
+      "title": "Recptionist",
+      "mobile": "9798541265",
+      "photo": "https://images.unsplash.com/photo-1639605762180-c291953c008c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHVzZXIlMjBwbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "groupId": "78"
+    },
+    {
+      "id": "gmGE_tm"
+    },
+    {
+      "id": "Fnwuy1C"
+    },
+    {
+      "id": "OLKyYhH"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "collegue"
+    },
+    {
+      "id": "1",
+      "name": "Family"
+    },
+    {
+      "id": "1",
+      "name": "Friend"
+    },
+    {
+      "id": "1",
+      "name": "Service"
+    },
+    {
+      "id": "1",
+      "name": "social"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
